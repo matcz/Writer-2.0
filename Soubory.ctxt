@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Soubory
+comment1.params=d
+comment1.target=void\ save(java.lang.String[][])
+comment2.params=
+comment2.target=java.lang.String[][]\ load()
+numComments=3

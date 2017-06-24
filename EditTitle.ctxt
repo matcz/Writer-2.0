@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EditTitle
+comment1.params=namety\ index\ a
+comment1.target=EditTitle(java.lang.String[][],\ int,\ int)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ editTitle()
+numComments=4

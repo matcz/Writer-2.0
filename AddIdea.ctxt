@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AddIdea
+comment1.params=namety\ index
+comment1.target=AddIdea(java.lang.String[][],\ int)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ copyIdea()
+numComments=4
